@@ -354,7 +354,7 @@
 
 .footer__container{
     background-color:#3a3939;
-    padding: auto;
+    padding: 5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
