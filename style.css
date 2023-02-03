@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    display: flex;
+    display:flexbox;
     font-family:'Kumbh Sans', sans-serif;
 }
 
