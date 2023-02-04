@@ -279,7 +279,7 @@
     width: 0;
     height: 100%;
     background: #4837ff;
-    transition: all;
+    transition: all 0.75s;
     border-radius: 4px;
 }
 
